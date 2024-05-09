@@ -1,0 +1,22 @@
+{
+    "firstname":"name1",
+    "lastname":"name2",
+    "fathername":"f1",
+    "aadharnumber":"123",
+    "email":"name1@gmail.com",
+    "username":"name123",
+    "password":"12345678",
+    "mobile":"1234567890",
+    "telephone":"87654321",
+    "street":"none",
+    "city":"none",
+    "state":"none",
+    "country":"none",
+    "zip":"123456",
+    "usertype":"admin"
+}
+
+{
+    "username":"dummy1",
+    "password":"12345678"
+}
